@@ -1,7 +1,8 @@
-### 👨🏻‍💻 &nbsp;About Me
+### &nbsp;About Me
 
 💡 &nbsp;New Grad - Actively Looking for an opportunity as software developer.\
-🎓 &nbsp;Skilled software developer in search of a career with a passion for completing meaningful projects, whether it is in a team setting, or individually. Available for a full-time permanent work with a start date as early as 2021.\
+🎓 &nbsp;Skilled software developer in search of a career with a passion for completing meaningful projects, whether it is in a team setting, or individually. 
+💻 &nbsp;Available for a full-time permanent work with a start date as early as 2021.\
 ✍️ &nbsp;In my free time, I specialized in topics such as data structures and algorithms, and object-oriented design and analysis.\
 ✉️ &nbsp;You can shoot me an email at dev.youngmin@gmail.com! I'll try to respond as soon as I can.\
 📄 &nbsp;Please have a look at my [Online Résumé](http://www.youngminchung.com) for more details about me. I'm open to feedback and suggestions!
