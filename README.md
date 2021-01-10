@@ -55,4 +55,3 @@
 <a href="http://youngminchung.com/"><img src="https://img.shields.io/badge/-http://youngminchung.com/-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/youngminchung/"><img src="https://img.shields.io/badge/-Youngmin Chung-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 </p>
-![visitors](https://visitor-badge.glitch.me/badge?page_id=youngmi-chung/youngmi-chung)
