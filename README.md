@@ -1,7 +1,7 @@
 ### &nbsp;About Me
 
 💡 &nbsp;New Grad - Actively Looking for an opportunity as software developer.\
-🎓 &nbsp;Skilled software developer in search of a career with a passion for completing meaningful projects, whether it is in a team setting, or individually.\
+🎓 &nbsp;Skilled software developer in search of a career with a passion for completing meaningful projects.\
 💻 &nbsp;Available for a full-time permanent work with a start date as early as 2021.\
 ✍️ &nbsp;In my free time, I specialized in topics such as data structures and algorithms, and object-oriented design and analysis.\
 ✉️ &nbsp;You can shoot me an email at dev.youngmin@gmail.com! I'll try to respond as soon as I can.\
@@ -18,7 +18,6 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
 
 ## Backend
-
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
 ![NodeJS](http://img.shields.io/badge/-NodeJS-05122A?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAMAAAAolt3jAAAAgVBMVEUzmTMzkTM0mDQslSwtlS00mzQAAAA7nTsymDIzmDMwmDAymTIzmDMzmTMzmDMzmDMzlzM0mTQzmTMzmTMzmTMzmTMzmTM0mjQ1nDUxlzEymDIzmTMzmTMzmTMzmTMzmTMwlzAzmTMzmTMzmTMzmTMzmTMzmTM0mTQzmTMzmTP///8ybrFJAAAAKXRSTlMAAAAAAAAAAAAAAA9RxlIRBjSR6/7vmzkIAyd21Nt8JwMauPwrKvlQxcV6L9IAAABUSURBVAjXY2RgZGTkYGQEUl8ZwUx2EAUSZfz0jVESSPEygMAXkIgiIyMbAwT8+v+fUeU/jAfkMzKqMjLDuX//k8ZFMwrNIjRnoDkS7AUZxqcQLwAA4+0cex8ENfMAAAAASUVORK5CYII=)
@@ -27,7 +26,6 @@
 ![MySQL](http://img.shields.io/badge/-MySQL-05122A?style=flat-square&logo=mysql&logoColor=4479A1)
 
 ## Area of Interest
-
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-black?style=flat-square&logo=ubuntu)
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
@@ -35,12 +33,7 @@
 ![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat-square&logo=Firebase)
 ![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)
 
-
-
-
-
 ### ⚙️ &nbsp;GitHub Analytics
-
 <p align="center">
 <a href="https://github.com/youngmin-chung">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=youngmin-chung&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
