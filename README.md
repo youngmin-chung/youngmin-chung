@@ -65,7 +65,7 @@
 ![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat-square&logo=Firebase)
 ![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=kogisin/kogisin)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=youngmi-chung/youngmi-chung)
 
 
 
