@@ -16,6 +16,7 @@
 ![SCSS](https://img.shields.io/badge/-SCSS-black?style=flat-square&logo=SASS)
 ![Material_UI](https://img.shields.io/badge/-Material_UI-black?style=flat-square&logo=material-ui)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
+![React](https://img.shields.io/badge/-C#-05122A?style=flat&logo=c)
 
 ## Backend
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
