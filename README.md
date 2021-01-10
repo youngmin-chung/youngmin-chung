@@ -1,12 +1,10 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I'm currently studying Computer Science and Mathematics at the University of Massachusetts Amherst.\
-🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture.\
-✍️ &nbsp;In my free time, I pursue Graphic Design and Blog Writing as hobbies/side hustles.\
-💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
-✉️ &nbsp;You can shoot me an email at avsingh@umass.edu! I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [Résumé](https://www.adityavsingh.com/resume.html) for more details about me. I'm open to feedback and suggestions!
+💡 &nbsp;New Grad - Actively Looking for an opportunity as software developer.\
+🎓 &nbsp;Skilled software developer in search of a career with a passion for completing meaningful projects, whether it is in a team setting, or individually. Available for a full-time permanent work with a start date as early as 2021.\
+✍️ &nbsp;In my free time, I specialized in topics such as data structures and algorithms, and object-oriented design and analysis.\
+✉️ &nbsp;You can shoot me an email at dev.youngmin@gmail.com! I'll try to respond as soon as I can.\
+📄 &nbsp;Please have a look at my [Online Résumé](http://www.youngminchung.com) for more details about me. I'm open to feedback and suggestions!
 
 ### 🛠 &nbsp;Tech Stack
 ## Frontend
