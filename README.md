@@ -1,4 +1,4 @@
-### &nbsp;About Me
+### &nbsp; Hi, there! I am Youngmin Chung <img src="https://github.com/youngmin-chung/youngmin-chung/blob/main/hi.gif" width="30px">
 
 💡 &nbsp;New Grad - Actively Looking for an opportunity as software developer.\
 🎓 &nbsp;Skilled software developer in search of a career with a passion for completing meaningful projects.\
