@@ -1,8 +1,8 @@
 ### &nbsp; Hi, there! I am Youngmin Chung <img src="https://github.com/youngmin-chung/youngmin-chung/blob/main/hi.gif" width="30px">
 
-💡 &nbsp;New Grad - Actively Looking for an opportunity as software developer in Canada.\
+💡 &nbsp;Actively Looking for an opportunity as software developer in Canada.\
 🎓 &nbsp;Skilled software developer in search of a career with a passion for completing meaningful projects.\
-💻 &nbsp;Available for a full-time permanent work with a start date as early as 2021.\
+💻 &nbsp;Available for a full-time permanent work immediately.\
 ✍️ &nbsp;In my free time, I specialized in topics such as data structures and algorithms, and object-oriented design and analysis.\
 ✉️ &nbsp;You can shoot me an email at dev.youngmin@gmail.com! I'll try to respond as soon as I can.\
 📄 &nbsp;Please have a look at my [Online Résumé](http://www.youngminchung.com) for more details about me. I'm open to feedback and suggestions!
