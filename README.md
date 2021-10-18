@@ -36,8 +36,8 @@
 ![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat-square&logo=Firebase)
 ![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)
 
-### 🤝🏻 &nbsp;Connect with Me
 
+### 🤝🏻 &nbsp;Connect with Me
 <p align="center">
 <a href="http://youngminchung.com/"><img src="https://img.shields.io/badge/-http://youngminchung.com/-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/youngminchung/"><img src="https://img.shields.io/badge/-Youngmin Chung-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
