@@ -5,7 +5,7 @@
 💻 &nbsp;Available for a full-time permanent work immediately.\
 ✍️ &nbsp;In my free time, I specialized in topics such as data structures and algorithms, and OOP design and analysis.\
 ✉️ &nbsp;You can shoot me an email at dev.youngmin@gmail.com! I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [Online Résumé](http://www.youngminchung.com) for more details about me. I'm open to feedback and suggestions!
+📄 &nbsp;I'm open to feedback and suggestions!
 
 ### 🛠 &nbsp;Tech Stack
 ## Frontend
